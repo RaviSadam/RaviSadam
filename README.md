@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m Donald Reddy</h1>
+  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I’m Ravi Sadam</h1>
   <h2 >
     <br>👀 I’m interested in Backend Development, and FullStack web development.<br>🔭 I’m currently working on the MERN stack.
   </h2>
